@@ -1,0 +1,7 @@
+@enter
+
+['G:\\work\\anytest/script\\testmain.py', 'accuracy', '100', '100', '300']
+(0.04036091034016387, 1.2790857025726388, 1.2981868124426619, 1.257825902102498)
+@completed
+
+File save at G:\work\anytest\script/data/2019-02-21 10-58-29.csv
